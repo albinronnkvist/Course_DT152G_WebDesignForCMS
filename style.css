@@ -1,0 +1,14 @@
+/*
+Theme Name: MatildaTheme
+Theme URI: http://wordpress.org/themes/matildatheme
+Author: Albin Rönnkvist
+Author URI: http://albinronnkvist.se/
+Description: A clean modern 2018 theme from Albin Rönnkvist
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black / white, clean, simple, modern, two-column
+Text Domain: matildatheme
+*/
+
+@import url("css/main.css");
