@@ -2,4 +2,4 @@
 
 En WordPress-webbplats med custom tema.
 
-[__Rapport__](https://albinronnkvist.se/skola/dt152g/Rapport%20-%20CMS.pdf)
+[__Rapport__](https://github.com/albinronnkvist/Course_DT152G_WebDesignForCMS/blob/master/DT152G_essay_sv.pdf)
