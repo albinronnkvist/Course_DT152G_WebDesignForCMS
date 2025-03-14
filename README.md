@@ -1,5 +1,7 @@
 # DT152G - Web Design for CMS
 
-En WordPress-webbplats med custom tema.
+Web Design Planning and Implementation in CMS Systems.
 
-[__Rapport__](https://github.com/albinronnkvist/Course_DT152G_WebDesignForCMS/blob/master/DT152G_essay_sv.pdf)
+In this course, I worked through the design process, including mood boards, wireframes, and static websites. I then implemented the design in the WordPress CMS, utilizing custom themes and hooks for a tailored user experience.
+
+[Essay](https://github.com/albinronnkvist/Course_DT152G_WebDesignForCMS/blob/master/DT152G_essay_sv.pdf)
